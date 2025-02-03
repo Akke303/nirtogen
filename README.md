@@ -10,4 +10,4 @@ Step 3: Download and run "NitrogenV3.py"
 Step 4: once you have entered the password, type 3 and enter the webhook url that you just copied
 Step 5: Enjoy some nitro! [it will take a while to guess the nitro code right]
 -- -- -- -- 
-Pass aksus
+Passwd: aksus
